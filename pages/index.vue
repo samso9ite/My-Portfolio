@@ -119,6 +119,7 @@
             </div>
             <!-- end skill-bar section. -->
          </div>
+        </div>
       </section>
       <!-- end about us section. -->
       <!-- start service section. -->
@@ -634,27 +635,12 @@
          </div>
       </section>
       <!-- end location section. -->
-      <!-- start footer section. -->
-      <section class="footer-bottom-area section">
-         <div class="container">
-            <div class="row">
-               <div class="col-md-12">
-                  <div class="footer-bottom-text">
-                     <p>Copyright © 2022, All rights Reserved.
-                        <br><a href="#" class="theme-info">Samso9te Digitals</a></br>
-                      
-                  </div>
-               </div>
-            </div>
-         </div>
-      </section>
-      <!-- end footer section. -->
     </div>
 </template>
 
 <script>
     export default{
-        name: IndexPage,
+        name: "IndexPage",
         data() {
             return {
                 
